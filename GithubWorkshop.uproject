@@ -17,6 +17,10 @@
 		{
 			"Name": "VirtualCamera",
 			"Enabled": true
+		},
+		{
+			"Name": "OSC",
+			"Enabled": true
 		}
 	]
 }
